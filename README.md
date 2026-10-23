@@ -19,6 +19,10 @@
 
 <br>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FF9900&center=true&vCenter=true&width=700&lines=Construindo+o+futuro+atrav%C3%A9s+da+tecnologia.;Evoluindo+e+aprendendo+a+cada+linha+de+c%C3%B3digo.;A+tecnologia+move+o+mundo.;+A+l%C3%B3gica+constr%C3%B3i+o+caminho." alt="Typing banner" />
+</p>
+
 <h2 align="center">Sobre Mim</h2>
 
 <p align="center">
@@ -71,8 +75,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DLaube-zs/DLaube-zs/pacman-output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DLaube-zs/DLaube-zs/pacman-output/galaga-contribution-graph.svg">
-    <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/DLaube-zs/DLaube-zs/pacman-output/galaga-contribution-graph.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DLaube-zs/DLaube-zs/pacman-output/galaga-contribution-graph-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DLaube-zs/DLaube-zs/pacman-output/galaga-contribution-graph.svg?v=1">
+    <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/DLaube-zs/DLaube-zs/pacman-output/galaga-contribution-graph.svg?v=1" width="100%">
   </picture>
 </div>
