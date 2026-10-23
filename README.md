@@ -31,15 +31,19 @@
 
 <br>
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/system-scan?username=DLaube-zs&theme=satan&style=aura&mode=dark" alt="System scan portrait" width="100%" />
+</p>
+
 <h2 align="center">Projetos em Destaque</h2>
 
 <div align="center">
   <br>
-  <h3>Sistemas de Automação para Seguros</h3>
-  <p>Desenvolvimento focado em <strong>Python</strong> e <strong>VBA</strong> para centralizar o processamento de dados operacionais. O sistema gerencia regras dinâmicas de visibilidade de cláusulas e formatação de documentações para apólices das linhas D&O, D&O EXCESSO e PTL.</p>
+  <h3>Sistemas de Automação Corporativa</h3>
+  <p>Desenvolvimento focado em <strong>Python</strong> e <strong>VBA</strong> para centralizar o processamento de dados operacionais no setor de seguros. O sistema gerencia regras dinâmicas de visibilidade de cláusulas e formatação automatizada de documentações contratuais complexas, otimizando o tempo de operação.</p>
   <br>
-  <h3>Revista Digital & Backoffice Administrativo</h3>
-  <p>Criação de um sistema integrado contendo catálogos digitais interativos para clientes finais e um painel de controle administrativo completo (utilizado por clientes como Natu Cachos e Mega G). A interface foi construída com <strong>ReactJS</strong> e <strong>JavaScript</strong>, englobando controle de estoque e autenticação de usuários com diferentes níveis de acesso.</p>
+  <h3>Plataforma Digital & Backoffice Administrativo</h3>
+  <p>Criação de um sistema integrado contendo catálogos digitais interativos para clientes finais e um painel de controle administrativo completo para empresas do setor de beleza e cosméticos. A interface foi construída com <strong>ReactJS</strong> e <strong>JavaScript</strong>, englobando controle de estoque, gestão de dados e autenticação de usuários com diferentes níveis de acesso.</p>
 </div>
 
 <br>
