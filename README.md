@@ -35,9 +35,14 @@
 
 <br>
 
+<div align="center">
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/system-scan?username=DLaube-zs&theme=satan&style=aura&mode=dark" alt="System scan portrait" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=dlaube-zs&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F262653814%3Fu%3D2d2a7c7c86c67e0e79819f7bb531c4dc32d6e45d%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light&pv=ytcVfP6ssv2l9Oq8" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=dlaube-zs&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F262653814%3Fu%3D2d2a7c7c86c67e0e79819f7bb531c4dc32d6e45d%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark&pv=ytcVfP6ssv2l9Oq8" width="860" alt="Daniel Laube animated maintainer system scan" />
+</picture>
 </p>
+</div>
 
 <h2 align="center">Projetos em Destaque</h2>
 
