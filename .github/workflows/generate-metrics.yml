@@ -1,0 +1,31 @@
+name: Gerar Metricas
+on:
+  schedule: [{cron: "0 0 * * *"}] # Atualiza todo dia à meia-noite
+  workflow_dispatch:              # Permite rodar manualmente
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Gerar Card de Estatisticas Base
+        uses: lowlighter/metrics@latest
+        with:
+          filename: .assets/github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: DLaube-zs
+          template: classic
+          base: header, activity, community, repositories, metadata
+          # Personalização de Cores (Paleta do Portfólio)
+          config_timezone: America/Sao_Paulo
+          plugin_languages: yes
+          plugin_languages_colors: "0:#D91E2E, 1:#B81422, 2:#7D0D17, 3:#4A060B"
+          plugin_languages_limit: 5
+          config_padding: 0, 8%
+          # Aqui definimos as cores de fundo, texto e borda
+          custom_title_color: "#D91E2E"
+          custom_text_color: "#F6F2EB"
+          custom_bg_color: "#090607"
+          custom_border_color: "#4A060B"
